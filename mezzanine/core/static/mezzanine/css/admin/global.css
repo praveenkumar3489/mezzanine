@@ -8,6 +8,7 @@
     font-size: 13px;
     font-weight: normal;
 }
+.container {background-color: green}
 .admin-title, #user-tools {
     margin: 5px 10px 5px 2px;
 }
